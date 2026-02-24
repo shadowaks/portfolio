@@ -2,7 +2,7 @@ export const portfolioData = {
     personalInfo: {
         name: "Akash Potraje",
         title: "DevOps Engineer | Cloud & Kubernetes Specialist",
-        shortBio: "4+ years experience in AWS, GCP, CI/CD, Kubernetes, Terraform, and Observability. Specializing in secure, scalable, and reliable cloud infrastructure for OTT and FinTech platforms.",
+        shortBio: "5+ years experience in AWS, GCP, CI/CD, Kubernetes, Terraform, and Observability. Specializing in secure, scalable, and reliable cloud infrastructure for OTT and FinTech platforms.",
         email: "akash.potraje@example.com", // Please update with actual email
         linkedin: "https://www.linkedin.com/in/akash-potraje-73bb131a1/",
         github: "https://github.com/shadowaks",
