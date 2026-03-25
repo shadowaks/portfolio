@@ -50,6 +50,13 @@ export const portfolioData = {
             techStack: ["AWS EKS", "Kafka", "SonarQube", "ELK Stack", "Prometheus", "Grafana"],
             challenges: "Maintaining strict financial data security compliance while processing real-time IoT and transaction data.",
             impact: "Established a secure, observable microservices architecture with automated code quality checks (SonarQube) and centralized logging (ELK)."
+        },
+        {
+            title: "FinTech / NSE (National Stock Exchange)",
+            description: "Built scalable, secure CI/CD pipelines and containerized infrastructure for a major financial exchange.",
+            techStack: ["AWS EKS", "Kafka", "SonarQube", "JFrog", "Jenkins", "Git"],
+            challenges: "Ensuring strict environment consistency and high availability for critical microservices.",
+            impact: "Improved deployment speed by 60% and achieved 99.9% system reliability using automated workflows."
         }
     ],
 

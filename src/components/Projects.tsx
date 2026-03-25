@@ -26,7 +26,7 @@ export default function Projects() {
                         <div className="flex-grow h-px bg-slate-800"></div>
                     </motion.div>
 
-                    <div className="grid md:grid-cols-2 gap-8">
+                    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {portfolioData.projects.map((project, index) => (
                             <motion.div
                                 key={index}
